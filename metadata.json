@@ -1,0 +1,7 @@
+{
+  "name": "Learning English Skills",
+  "description": "A web application that introduces four powerful, science-backed techniques to help you learn faster, remember more, and deepen your understanding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
